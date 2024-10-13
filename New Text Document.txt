@@ -1,0 +1,5 @@
+branches
+	git checkout-b do01
+$ git add -A
+$ git commit -m "new folder structure for the project"
+$ git checkout main
